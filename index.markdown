@@ -1,6 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: "Dinheiro e Investimentos"
+lead: "Guia com materias para aprender sobre dinheiro e investimentos"
+links:
+  - title: Juros
+    url: juros
 ---
