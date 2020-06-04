@@ -5,6 +5,10 @@ lead: "Investimento"
 lang: pt
 ---
 
+## Geral
+
+* <span class="badge badge-primary">vídeo</span> [Como se organizar financeiramente com André Massaro](https://www.andremassaro.com.br/como-se-organizar-financeiramente/){:target="_blank"}
+
 ## Preço
 
 * <span class="badge badge-primary">vídeo</span> [Afinal, preço importa ou não?](price/)
