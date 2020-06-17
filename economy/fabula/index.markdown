@@ -41,4 +41,7 @@ videos:
   - title: "S2E1: Papel moeda - Como os mercados funcionam"
     url: https://www.youtube.com/embed/DU5LHol7j_w
     platform: youtube
+  - title: "S2E2: Como as ações foram criadas"
+    url: https://www.youtube.com/embed/RgIszN-s2DQ
+    platform: youtube
 ---
