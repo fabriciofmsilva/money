@@ -44,4 +44,7 @@ videos:
   - title: "S2E2: Como as ações foram criadas"
     url: https://www.youtube.com/embed/RgIszN-s2DQ
     platform: youtube
+  - title: "S2E3: Como surgiu a bolsa de valores"
+    url: https://www.youtube.com/embed/xdofNh_o3SI
+    platform: youtube
 ---
