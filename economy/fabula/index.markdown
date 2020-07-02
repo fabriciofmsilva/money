@@ -47,4 +47,7 @@ videos:
   - title: "S2E3: Como surgiu a bolsa de valores"
     url: https://www.youtube.com/embed/xdofNh_o3SI
     platform: youtube
+  - title: "S2E4: Como funcionam as bolsas de valores"
+    url: https://www.youtube.com/embed/KB0KnbAMJM8
+    platform: youtube
 ---
