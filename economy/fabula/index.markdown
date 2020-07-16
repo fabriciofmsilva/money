@@ -50,4 +50,7 @@ videos:
   - title: "S2E4: Como funcionam as bolsas de valores"
     url: https://www.youtube.com/embed/KB0KnbAMJM8
     platform: youtube
+  - title: "S2E5: Como as bolhas especulativas se formam"
+    url: https://www.youtube.com/embed/UY9l5k-wsyU
+    platform: youtube
 ---
