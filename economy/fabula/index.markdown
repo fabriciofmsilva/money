@@ -53,4 +53,7 @@ videos:
   - title: "S2E5: Como as bolhas especulativas se formam"
     url: https://www.youtube.com/embed/UY9l5k-wsyU
     platform: youtube
+  - title: "S2E6: Como funciona o mercado futuro"
+    url: https://www.youtube.com/embed/5g3CP5wPO_I
+    platform: youtube
 ---
