@@ -56,4 +56,7 @@ videos:
   - title: "S2E6: Como funciona o mercado futuro"
     url: https://www.youtube.com/embed/5g3CP5wPO_I
     platform: youtube
+  - title: "S2E7: Como funciona o mercado de derivativos"
+    url: https://www.youtube.com/embed/SUbx1ulHBCE
+    platform: youtube
 ---
